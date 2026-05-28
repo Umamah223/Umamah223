@@ -3,10 +3,10 @@
 ---
 
 ### 👩‍💻 About Me  
-- 🎓 Final Year **BSc Computer Science** student at **University of West London**  
-- 🚀 **Global Winner** of the **NASA International Space Apps Challenge 2024**
+- 🎓 Recent Computer Science graduate from **University of West London** **(First Class Honours)**
+- 🚀 **Global Winner** of the **NASA International Space Apps Challenge**
 - 🏅 **UAE Golden Visa Holder** (Distinction Student)  
-- Currently working on **AI & Computer Vision** for **construction site safety** aligned with **Saudi Vision 2030**
+- Undergrad Research:  **AI & computer vision** applied to real-time construction site safety monitoring, aligned with Saudi Vision 2030.
 ---
 
 ### 🚀 Tech Stack  
