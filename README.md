@@ -3,10 +3,19 @@
 ---
 
 ### 👩‍💻 About Me  
-- 🎓 Recent Computer Science graduate from **University of West London** **(First Class Honours)**
-- 🚀 **Global Winner** of the **NASA International Space Apps Challenge**
-- 🏅 **UAE Golden Visa Holder** (Distinction Student)  
-- Undergrad Research:  **AI & computer vision** applied to real-time construction site safety monitoring, aligned with Saudi Vision 2030.
+Computer Science graduate focused on AI, computer vision, and real-world machine learning applications. Passionate about building intelligent systems that improve safety, automation & and decision-making .
+
+- 🎓 BSc Computer Science, University of West London (First Class Honours)  
+- 🚀 Global Winner – NASA International Space Apps Challenge  
+- 🏅 UAE Golden Visa Holder (Distinction Student)  
+- 🤝 Active volunteer in tech events and innovation communities  
+- 📚 Participant in tech workshops including AWS, UAE Ministry of AI, PwC Middle East, Huawei & more
+
+### 🧠 Interests
+- Artificial Intelligence & Machine Learning  
+- Computer Vision & Deep Learning  
+- Real-time Safety Systems  
+- Applied AI for Industries 
 ---
 
 ### 🚀 Tech Stack  
