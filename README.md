@@ -7,7 +7,8 @@ Computer Science graduate focused on AI, computer vision, and real-world machine
 
 - 🎓 BSc Computer Science, University of West London (First Class Honours)  
 - 🚀 Global Winner – NASA International Space Apps Challenge  
-- 🏅 UAE Golden Visa Holder (Distinction Student)  
+- 🏅 UAE Golden Visa Holder (Distinction Student)
+- 🏆 UAE Hackathon Winner – Selected among 331 teams; built an NLP + RAG-powered legal intelligence platform for the UAE Ministry of Justice.
 - 🤝 Active volunteer in tech events and innovation communities  
 - 📚 Participant in tech workshops including AWS, UAE Ministry of AI, PwC Middle East, Huawei & more
 
