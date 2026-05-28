@@ -3,7 +3,7 @@
 ---
 
 ### 👩‍💻 About Me  
-Computer Science graduate focused on AI, computer vision, and real-world machine learning applications. Passionate about building intelligent systems that improve safety, automation & and decision-making .
+Computer Science graduate focused on AI, computer vision, and real-world machine learning applications. Passionate about building intelligent systems that improve automation & and decision-making.
 
 - 🎓 BSc Computer Science, University of West London (First Class Honours)  
 - 🚀 Global Winner – NASA International Space Apps Challenge  
